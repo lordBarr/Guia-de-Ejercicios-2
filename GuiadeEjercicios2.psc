@@ -43,7 +43,7 @@ Proceso GuiaEjercicios
 		4: Escribir "Su división es ",Number1/Number2;
 			Escribir "";
 			Escribir "Vuelva pronto";
-		5: Escribir "Su módulo es ", Number1 MOD Number2;
+		5: Escribir "Su módulo es ", Number1 % Number2;
 			Escribir "";
 			Escribir "Vuelva pronto";
 		De Otro Modo:
