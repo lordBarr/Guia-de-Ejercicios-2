@@ -1,13 +1,12 @@
 Proceso GuiaEjercicios
 	//Ejercicio nº 3
-		Definir Number1 Como Entero;
+	Definir Number1 Como Entero;
 	Definir Number2 Como Entero;
 	Definir Decision Como Entero;
 	
 	Number1<-0;
 	Number2<-0;
 	Decision<-0;
-	Res_Op<-0;
 	
 	Escribir "BIENVENIDO A SU CALCULADORA DIGITAL";
 	Esperar 3 Segundos;
