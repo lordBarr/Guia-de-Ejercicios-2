@@ -1,5 +1,5 @@
 Proceso GuiaEjercicios
-	//Ejercicio nº 3
+	//Ejercicio nº 2
 	Definir Number1 Como Entero;
 	Definir Number2 Como Entero;
 	Definir Decision Como Entero;
