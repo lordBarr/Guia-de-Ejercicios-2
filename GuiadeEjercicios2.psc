@@ -1,6 +1,6 @@
 Proceso GuiaEjercicios
 	//Ejercicio nº 1
-		Definir D Como Entero;
+	Definir D Como Entero;
 	Definir M Como Entero;
 	Definir DM Como Entero;
 	Definir A Como Entero;
